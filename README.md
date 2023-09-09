@@ -43,7 +43,7 @@ Saleor Platform is the easiest way to start local development with all the major
 To clone the repository, run the following command
 
 ```
-git clone https://github.com/saleor/saleor-platform.git
+git clone https://github.com/Shovan-deep/ISEC600-saleor-platform.git
 ```
 
 ## How to run it?
@@ -55,7 +55,7 @@ git clone https://github.com/saleor/saleor-platform.git
 
 2. Go to the cloned directory:
 ```shell
-cd saleor-platform
+cd ISEC600-saleor-platform
 ```
 
 3. Build the application:
